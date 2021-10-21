@@ -1,27 +1,27 @@
 # main text of home
-name: 驿林的零散坑
+name: Vemx's Spase
 bio: Target - Daily - System
-bio-url: https://iiam.fun/Less-is-more.html
+bio-url: https://aree.top/Less-is-more.html
 
 # twitter summary info
-description: A blog about iiam.fun 驿林
+description: A blog about aree.top Vemx
 
 # if it's an external image, update below for true
 # better with square images
 external-image: false
 picture: assets/profile.png
 profile_bk: assets/profile.png
-author: 驿林
+author: Vemx
 gudongqr: https://cdn.jsdelivr.net/gh/maoruibin/assets/pic/2019/mmexport1578533815371.jpg
-gudonggzh: 驿林
+gudonggzh: Vemx
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: false
 resume-external: true
-resume-url: https://iiam.fun/2017/05/08/resume.html
+resume-url: https://aree.top/2017/05/08/resume.html
 
-url: https://iiam.fun
+url: https://aree.top
 # your url: http://USERNAME.github.io
 
 # permalink: /:title/
@@ -34,7 +34,7 @@ analytics-baidu: 'de1df75db196971264bd87815c96f646'
 
 
 # To enable piwik tracking, supply your url & site ID below
-analytics-piwik-url: 'iiam.fun'
+analytics-piwik-url: 'aree.top'
 analytics-piwik-id: 1
 
 # if you don't want comments in your posts, leave categories empty
@@ -68,7 +68,7 @@ twitter: Melinkii_Ren
 # linkedin: mylinkedin
 # youtube: UCyTmtkrzThgT1wGGUgQ4eZA
 # spotify: myspotify
-github: ililitk
+github: vemx
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -77,14 +77,14 @@ github: ililitk
 # medium: iiam.fun
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-# email: iiam.fun#gmail.com
+email: vemx@aree.top
 rss: true
 
 authors:
     gudong:
-        name: 驿林
+        name: Vemx
         bio: emmm...
-        about: https://iiam.fun/about.html
+        about: https://aree.top/about.html
         external-image: false
         picture: assets/profile/github_profile_2020.png
         twitter: FZ64pAZK2h8aP4r
@@ -138,7 +138,7 @@ plugins:
   - jekyll-admin
 
 jekyll-mentions:
-    base_url: https://iiam.fun
+    base_url: https://aree.top
 
 markdown: kramdown
 kramdown:
